@@ -1,4 +1,4 @@
-# SimpleCalculatorApp
+# Simple Calculator Application
 
 A simple command-line calculator application that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
